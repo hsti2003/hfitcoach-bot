@@ -1,2 +1,3 @@
-# hfitcoach-bot
-Telegram Bot for HFit Coach
+# HFit Coach 🌸
+
+Telegram Bot For Women's Fitness
